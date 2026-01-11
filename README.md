@@ -1,2 +1,3 @@
-# LMD
-Hello GHuys here are folder of my programming problem solving exampels from popular website, Please do not copy, use for educational purposes
+# Hi everyone! 
+This folder contains my solutions to programming problems from popular coding websites.
+These are for educational purposes only — please don't copy them directly.
