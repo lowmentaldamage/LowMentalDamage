@@ -1,2 +1,2 @@
 # LMD
-Hello guys, I'm currently worrking on making my own leanguage, i made a trading bot in oython and in this leanguage as an example, i will notify you all when it is done!
+Hello GHuys here are folder of my programming problem solving exampels from popular website, Please do not copy, use for educational purposes
